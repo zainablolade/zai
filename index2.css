@@ -1,0 +1,17 @@
+.godwin{
+	color: red;
+	font-size: 25px;
+}
+.joe{
+	text-align: right;
+	text-shadow: 4px 2px 10px blue;
+}
+.top{
+  vertical-align: top;
+}
+.center{
+  vertical-align: middle;
+}
+.bottom{
+ vertical-align: bottom;
+}
